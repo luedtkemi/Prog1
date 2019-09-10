@@ -1,0 +1,38 @@
+h1 {
+    color:blue;
+    text-align:center;
+    text-decoration:underline;
+}
+
+h2 {
+    text-align:center;
+    color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:italic;
+}
+
+a {
+    text-align: center;
+    vertical-align:bottom;
+}
+
+div {
+    text-align:center;
+}
+
+table {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    border:groove;
+    color:teal;
+}
+
+ul {
+    list-style-type:none;
+    
+}
+
+ol {
+    list-style-position:inside;
+}
